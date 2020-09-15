@@ -17,3 +17,8 @@ a neural network approximation can replace the costly FEA process.
 
 Citation:
 Tseranidis, S., Brown, N. C., & Mueller, C. T. (2016). Data-driven approximation algorithms for rapid performance evaluation and optimization of civil structures. Automation in Construction, 72, 279–293. https://doi.org/10.1016/j.autcon.2016.02.002
+
+# TODO
+- Explore how many design variables can be used with existing neural net architecture
+- Figure out minimum number of epochs necessary for reliable results
+- Implement gaussian blur on the neural network design gradient to smooth results
